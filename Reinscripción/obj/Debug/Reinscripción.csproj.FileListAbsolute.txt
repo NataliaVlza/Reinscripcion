@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\bin\Debug\Reinscripción.exe.config
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\bin\Debug\Reinscripción.exe
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\bin\Debug\Reinscripción.pdb
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.AgregarEditar.resources
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.Properties.Resources.resources
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.VentanaPrincipal.resources
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.exe
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.pdb
+C:\Users\Usuario\Desktop\DESARROLLO_3\Reinscripción\Reinscripción\obj\Debug\Reinscripción.exe.config
+C:\Users\natal\OneDrive - Universidad de Sonora\Documents\Reinscripción\Reinscripción\obj\Debug\Reinscripción.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive - Universidad de Sonora\Documents\Reinscripción\Reinscripción\obj\Debug\Reinscripción.exe
+C:\Users\natal\OneDrive - Universidad de Sonora\Documents\Reinscripción\Reinscripción\obj\Debug\Reinscripción.pdb
